@@ -1,2 +1,0 @@
-# Taghreed-profile
-portfolio example
